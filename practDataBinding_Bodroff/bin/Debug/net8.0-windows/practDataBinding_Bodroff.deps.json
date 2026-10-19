@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "practDataBinding_Bodroff/1.0.0": {
+        "runtime": {
+          "practDataBinding_Bodroff.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practDataBinding_Bodroff/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

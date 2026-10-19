@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\wpf\\practDataBinding_Bodroff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AA4DD-8970-4BB1-B784-D60E206F1C54}|practDataBinding_Bodroff\\practDataBinding_Bodroff.csproj|c:\\users\\user\\wpf\\practdatabinding_bodroff\\practdatabinding_bodroff\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AA4DD-8970-4BB1-B784-D60E206F1C54}|practDataBinding_Bodroff\\practDataBinding_Bodroff.csproj|solutionrelative:practdatabinding_bodroff\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AA4DD-8970-4BB1-B784-D60E206F1C54}|practDataBinding_Bodroff\\practDataBinding_Bodroff.csproj|c:\\users\\user\\wpf\\practdatabinding_bodroff\\practdatabinding_bodroff\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E7AA4DD-8970-4BB1-B784-D60E206F1C54}|practDataBinding_Bodroff\\practDataBinding_Bodroff.csproj|solutionrelative:practdatabinding_bodroff\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AA4DD-8970-4BB1-B784-D60E206F1C54}|practDataBinding_Bodroff\\practDataBinding_Bodroff.csproj|c:\\users\\user\\wpf\\practdatabinding_bodroff\\practdatabinding_bodroff\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AA4DD-8970-4BB1-B784-D60E206F1C54}|practDataBinding_Bodroff\\practDataBinding_Bodroff.csproj|solutionrelative:practdatabinding_bodroff\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wpf\\practDataBinding_Bodroff\\practDataBinding_Bodroff\\Product.cs",
+              "RelativeDocumentMoniker": "practDataBinding_Bodroff\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\wpf\\practDataBinding_Bodroff\\practDataBinding_Bodroff\\Product.cs",
+              "RelativeToolTip": "practDataBinding_Bodroff\\Product.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:35:18.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\wpf\\practDataBinding_Bodroff\\practDataBinding_Bodroff\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "practDataBinding_Bodroff\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\wpf\\practDataBinding_Bodroff\\practDataBinding_Bodroff\\MainWindow.xaml",
+              "RelativeToolTip": "practDataBinding_Bodroff\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T09:34:31.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wpf\\practDataBinding_Bodroff\\practDataBinding_Bodroff\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "practDataBinding_Bodroff\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\wpf\\practDataBinding_Bodroff\\practDataBinding_Bodroff\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "practDataBinding_Bodroff\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwEUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:34:28.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

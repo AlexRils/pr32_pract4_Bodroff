@@ -1,0 +1,64 @@
+﻿<Window x:Class="practDataBinding_Bodroff.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:practDataBinding_Bodroff"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+
+    <Grid>
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <Label Content="ID"/>
+            <Label Content="Название"/>
+            <Label Content="Категория"/>
+            <Label Content="цена"/>
+            <Label Content="количество"/>
+            <Label Content="Вычесляемое поле"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <Label Margin="5" Content="{Binding Id}"/>
+            <TextBox Margin="5" Text="{Binding Name}"/>
+            <TextBox Margin="5" Text="{Binding Category}"/>
+            <TextBox Margin="5" Text="{Binding Price}"/>
+            <TextBox Margin="5" Text="{Binding Quantity}"/>
+            <Label Margin="5" Content="{Binding TotalCost}"/>
+
+            <Button Content="Сохранить" Margin="5" Click="Button_Click"/>
+
+            <Button Content="Новая запись" Margin="5" Click="Button_Click_1"/>
+
+            <Label Content="Введите id для поиска:"/>
+
+            <TextBox x:Name="polepoisk" />
+
+            <Button Content="Найти" Margin="5" Click="Button_Click_3"/>
+
+        </StackPanel>
+        <StackPanel Grid.Column="2" Grid.Row="0" Grid.RowSpan="4">
+            <TextBlock Text="ID:"/>
+            <TextBlock Text="{Binding Id}"/>
+            <TextBlock Text="Название:"/>
+            <TextBlock Text="{Binding Name}"/>
+            <TextBlock Text="Категория:"/>
+            <TextBlock Text="{Binding Category}"/>
+            <TextBlock Text="Цена"/>
+            <TextBlock Text="{Binding Price}"/>
+            <TextBlock Text="Количество"/>
+            <TextBlock Text="{Binding Quantity}"/>
+            <TextBlock Text="Вычесляемое поле:"/>
+            <TextBlock Text="{Binding TotalCost}"/>
+        </StackPanel>
+
+
+    </Grid>
+
+</Window>
